@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "MultiStream Chat Viewer",
+  "version": "5.0",
+  "description": "Floating Twitch + YouTube Chat Viewer with Refresh + Saved Links.",
+  "permissions": ["storage"],
+  "host_permissions": ["https://www.googleapis.com/*"],
+  "action": {
+    "default_title": "Open MultiStream Chat"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}

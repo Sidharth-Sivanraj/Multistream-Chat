@@ -1,0 +1,14 @@
+Download the MultiStreamChat.zip and extract.
+Click on extensions in chrome
+Then Manage extension
+Then top right corner turn on Developer mode
+Then click on Load Unpacked
+
+Now the extension should show up and click on the MultiStreamChat extension add Twitch link 
+Note FNS link is https://www.twitch.tv/gofns?no-reload=true
+Paste only https://www.twitch.tv/gofns
+
+But youtube the live stream link is to be fully pasted.
+
+
+
